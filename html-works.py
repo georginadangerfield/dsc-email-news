@@ -11,8 +11,8 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 
-EMAIL_ADDRESS = 'gdangerfield71@gmail.com'
-EMAIL_PASSWORD = 'Jessiecat92'
+EMAIL_ADDRESS = '@gmail.com'
+EMAIL_PASSWORD = ''
 
 
 # In[131]:
