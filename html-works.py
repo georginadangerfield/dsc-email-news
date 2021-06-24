@@ -84,7 +84,7 @@ for i,article in enumerate(ds_list):
         pass
     
     title = article_template.h1
-    title.string = article['title'][:30]
+    title.string = article['title'][:100]
     
     link = article_template.a
     link['href'] = urls[i]
